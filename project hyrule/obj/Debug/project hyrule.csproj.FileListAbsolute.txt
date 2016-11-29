@@ -1,1 +1,13 @@
 C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\bin\Debug\Hyrule Warriors.exe.config
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\bin\Debug\Hyrule Warriors.exe.config
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\bin\Debug\Hyrule Warriors.exe
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\bin\Debug\Hyrule Warriors.pdb
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\bin\Debug\ja\Hyrule Warriors.resources.dll
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\project hyrule.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\Hyrule.Form1.resources
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\hyrulewarriors.Properties.Resources.resources
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\Hyrule.Form1.ja.resources
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\project hyrule.csproj.GenerateResource.Cache
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\ja\Hyrule Warriors.resources.dll
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\Hyrule Warriors.exe
+C:\Users\Alessandro\Desktop\Hyrule-Warriors-masterw\project hyrule\obj\Debug\Hyrule Warriors.pdb

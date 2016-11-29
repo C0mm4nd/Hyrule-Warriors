@@ -49,6 +49,8 @@ namespace Hyrule
             }
             catch (ETCPGeckoException)
             {
+                //For tests
+                //load();
                 MessageBox.Show("Connection failed.");
             }
 
@@ -2091,5 +2093,6 @@ namespace Hyrule
         {
             Gecko.poke16(0x356D8FDC, 0x4E20); //Yuga Hearts
         }
+  
     }
 }
