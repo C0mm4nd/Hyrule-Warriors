@@ -1,0 +1,15 @@
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\bin\Release\Hyrule Warriors.exe.config
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\bin\Release\Hyrule Warriors.exe
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\bin\Release\Hyrule Warriors.pdb
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\bin\Release\ja\Hyrule Warriors.resources.dll
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\project hyrule.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\Hyrule.Form1.resources
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\hyrulewarriors.Properties.Resources.resources
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\Hyrule.Form1.ja.resources
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\project hyrule.csproj.GenerateResource.Cache
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\ja\Hyrule Warriors.resources.dll
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\Hyrule Warriors.exe
+C:\Users\Marina\Downloads\project-hyrule-master\project hyrule\obj\Release\Hyrule Warriors.pdb
+C:\Users\Marina\Downloads\Kevin Kram\project-hyrule-master\project hyrule\bin\Release\Hyrule Warriors.exe.config
+C:\Users\Marina\Downloads\Kevin Kram\project-hyrule-master\project hyrule\obj\Release\Hyrule Warriors.exe
+C:\Users\Marina\Downloads\Kevin Kram\project-hyrule-master\project hyrule\obj\Release\Hyrule Warriors.pdb
